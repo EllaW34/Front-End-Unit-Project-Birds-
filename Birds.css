@@ -1,0 +1,143 @@
+.birds {
+    background-color: gray;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 800%;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.img-fluid {
+	width: 30%;
+	height: auto;
+}
+
+img {
+    border: 5px;
+    margin: 10px;
+}
+
+.titleImgTopLeft {
+	width: 40%;
+	height: auto;
+	padding: 10px;
+	
+	left: 20px;
+	border-radius: 50%;
+}
+
+.titleImgTopRight {
+	width: 40%;
+	height: auto;
+	padding: 10px;
+	
+	right: 20px;
+	border-radius: 50%;
+}
+
+.titleImgLeft {
+	width: 40%;
+	height: auto;
+	padding: 10px;
+	
+	left: 20px;
+	border-radius: 50%;
+}
+
+.titleImgRight {
+	width: 40%;
+	height: auto;
+	padding: 10px;
+	
+	right: 20px;
+	border-radius: 50%;
+}
+
+.carousel {
+	height: 50%;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.hummingbirds {
+	background-color: rgb(2, 103, 181);
+	color: rgb(255,255,255);
+}
+
+.hummingPics {
+    width: 100%;
+}
+
+.crows {
+	background-color: rgb(0,0,0);
+	color: rgb(255,255,255);
+}
+
+.ostriches {
+	background-color: rgb(219, 125, 153);
+}
+
+.pelicans {
+	background-color: rgb(252, 200, 121);
+}
+
+.humming1 {
+	visibility: hidden;
+}
+
+.humming2 {
+	visibility: hidden;
+}
+
+.humming3 {
+	visibility: hidden;
+}
+
+.Ostrich1 {
+	visibility: hidden;
+}
+
+.Ostrich2 {
+	visibility: hidden;
+}
+
+.Ostrich3 {
+	visibility: hidden;
+}
+
+.Pelican1 {
+	visibility: hidden;
+}
+
+.Pelican2 {
+	visibility: hidden;
+}
+
+.Pelican3 {
+	visibility: hidden;
+}
+
+.size {
+	font-size: 25px;
+}
+
+.blueLink {
+	color: rgb(247, 146, 176);
+}
+
+.text {
+   font-size: 1.75vw;
+   
+}
+
+.col {
+    width: 100%;
+}
